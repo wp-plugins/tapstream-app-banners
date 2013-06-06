@@ -1,18 +1,19 @@
 === Tapstream App Banner ===
 Contributors: tapstream
-Tags: advertising
+Tags: advertising, ads, smart app banner, ios, mobile, iphone, ipad
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Start advertising with Tapstream smart app banners on your website.
+Tapstream App Banners shows your iOS visitors a sweet app or game (using Safari's Smart App Banner). You get paid for every impression.
 
 == Description ==
 
-Automatically insert the tapstream smart app banner javascript into your <head>. No
-configuration necessary!
+Automatically inserts the Tapstream App Banner JavaScript in to your `<head>`. Shows a Smart App Banner to iOS users. No configuration necessary!
+
+Just [register for a free account](https://tapstream.com/app-banners/) and install this plugin.
 
 == Installation ==
 
